@@ -1,0 +1,52 @@
+.card{
+    display: flex;
+    gap: 32px;
+    padding: 17px 0px 23px 17px;
+    width: 495px;
+    height: 208px;
+    flex-shrink: 0;
+}
+.card > img{
+    width: 125rem;
+    height: 160rem;
+    border-radius: 5rem;
+}
+.card--location-info{
+    display: flex;
+    align-items: center;
+}
+.card--location-info > p{
+    margin: 0;
+    margin-left: 4px;
+    color: #2B283A;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.741px;
+}
+.card--location-info > a{
+    margin-left: 12px;
+    color: #918E9B;
+    font-size: 10.24px;
+}
+.card--info > h1{
+    margin: 0;
+    margin-top: 4px;
+    color: #2B283A;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.date{
+    color: #2B283A;
+    font-size: 10.24px;
+    font-weight: 700;
+}
+.description{
+    width: 319px;
+    color: #2B283A;
+    font-size: 10.24rem;
+    line-height: 150%; /* 15.36rem */
+}

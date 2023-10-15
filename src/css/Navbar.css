@@ -1,0 +1,15 @@
+.Navbar{
+    background-color: #F55A5A;
+    display: flex;
+    gap: 7px;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 55px;
+    flex-shrink: 0;
+}
+.Navbar > p{
+    color: #FFF;
+    font-size: 14.461rem;
+    letter-spacing: -1.085rem;
+}

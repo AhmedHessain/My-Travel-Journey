@@ -1,0 +1,15 @@
+*,*::after,*::before{box-sizing: border-box;}
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 6.25%;
+}
+body{
+  margin: 0;
+  background-color: #ccc;
+  display: flex;
+  justify-content: center;
+}
+#root{
+  display: flex;
+  flex-direction: column;
+}
