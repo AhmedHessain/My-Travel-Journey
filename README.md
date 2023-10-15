@@ -30,3 +30,15 @@ The My Travel Journey project aims to create a static travel journal page using 
 3. Customize the travel journal data by modifying the relevant data file (`data.jsx`) 
 4. Add new travel entries or update existing ones in the data file
 5. The travel journal page will dynamically render the entries based on the updated data
+
+## Build
+
+To build the project for production, you can use the following command:
+npm run build
+
+This command will generate an optimized and minified version of your application in the `dist` directory.
+
+## Credits
+
+- This project was completed as part of the Scrimba React tutorial: [Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact)
+- The design for the digital business card was provided in the Figma file: [Digital Business Card Figma Design](https://www.figma.com/file/e8kjjXfOieYxI3sDq3LoYp/Travel-Journal-(Copy)-(Community)?type=design&node-id=0-1&mode=design)
