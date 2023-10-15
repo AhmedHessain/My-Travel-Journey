@@ -16,7 +16,6 @@ The My Travel Journey project aims to create a static travel journal page using 
 ## Features
 
 - Display travel entries dynamically based on provided data
-- Responsive design that adapts to different screen sizes
 
 ## Installation
 
@@ -27,7 +26,7 @@ The My Travel Journey project aims to create a static travel journal page using 
 ## Usage
 
 1. Start the development server: `npm run dev`
-2. Open your browser and visit: `http://localhost:3000`
-3. Customize the travel journal data by modifying the relevant data file (`data.js` or similar)
+2. Open your browser and visit the host provided in terminal
+3. Customize the travel journal data by modifying the relevant data file (`data.jsx`) 
 4. Add new travel entries or update existing ones in the data file
 5. The travel journal page will dynamically render the entries based on the updated data
