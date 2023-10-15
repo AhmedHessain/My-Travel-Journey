@@ -8,6 +8,7 @@ This repository contains the code for the My Travel Journey project. It is a sol
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Build](#Build)
 
 ## Introduction
 
